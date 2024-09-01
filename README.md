@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Janvi Lumbhani.
-- 👀 I’m interested in full stack wweb development.
+- 👀 I’m interested in full stack web development.
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
